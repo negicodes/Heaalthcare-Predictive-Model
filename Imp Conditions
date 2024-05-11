@@ -1,0 +1,13 @@
+The following code which i sused in the creation for this model requieres some crucial steps like:
+# Import necessary libraries
+# Load dataset (replace 'data.csv' with your dataset file)
+# Perform data preprocessing
+# Assuming 'X' contains features and 'y' contains the target variable
+# Split data into train and test sets
+# Standardize features
+# Train Random Forest classifier
+# Make predictions
+# Evaluate model performance
+# Print classification report
+# Feature importance
+# You can then integrate this model into decision-making processes as described earlier.
